@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33006.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeycloakAPI.Web", "KeycloakAPI.Web\KeycloakAPI.Web.csproj", "{79BB1B6F-77A8-4A86-96A9-4973B4F1F751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BB1B6F-77A8-4A86-96A9-4973B4F1F751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BB1B6F-77A8-4A86-96A9-4973B4F1F751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BB1B6F-77A8-4A86-96A9-4973B4F1F751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BB1B6F-77A8-4A86-96A9-4973B4F1F751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99A50F2-C671-4175-8AC0-47F40DA796B1}
+	EndGlobalSection
+EndGlobal
